@@ -1,50 +1,54 @@
 ---
 template: BlogPost
-path: /fillerama
-date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
-thumbnail: /assets/image-5.jpg
+path: /kodel-amerikieciai-nuvertina-luka-donciciu
+date: 2018-06-17T13:59:00.000Z
+title: Kodėl amerikiečiai nuvertina Luka Dončičių?
+thumbnail: /assets/Luka_Doncic.jpeg
 ---
-# No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
 
-I am the Doctor, and you are the Daleks! You hit me with a cricket bat. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hit me with a cricket bat.
 
-You've swallowed a planet! No… It's a thing; it's like a plan, but with more greatness. You hate me; you want to kill me! Well, go on! **Kill me!** *KILL ME!* Sorry, checking all the water in this area; there's an escaped fish.
+Tokie krepšininkai kaip Arvydas Sabonis, Draženas Petrovičius gimsta kartą per 100 metų. Tokių žaidėjų talentas pastebimas anksti ir nesulaukę pilnametystės jie jau pradeda žaisti vyrų krepšinį. Šie krepšininkai turi tai ko negalima pasiekti sunkiomis treniruotėmis.Stebint juos krepšinio aikštelėje atsiskleidžia tikrasis krepšinio grožis.
 
-## Did I mention we have comfy chairs?
+Luka Dončičius yra unikali asmenybė Europos krepšinyje, apie kurią dar ilgai kalbėsime. Dušanas Ivkovičius teigė, kad Draženas Petrovičius ir Tony Kukočius būdami 18 metų neatrodė taip brandžiai kaip Luka būdamas tokio amžiaus. Slovėnijos krepšinio vunderkinas jau nuo vaikystės žaidė su 2-3 m. vyresniais vaikinais už save ir vėliau labai gretai prisitaikė prie kieto vyriško krepšinio. Net ir patiems geriausiems krepšininkams šis periodas užtrunka, tačiau Lukai Dončičiui šis slenkstis į vyrų krepšinį buvo minimalus.
 
-No… It's a thing; it's like a plan, but with more greatness. Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+Visada atsiras greitesnių, stipresnių, aukščiau į viršų pašokančių sportininkų, tačiau retai fizinės savybės pranoks talentą. Pastebėti jaunus talentus yra sudėtinga. To nepavyksta padaryti daugumai NBA komandų. 2015 m. New Yorko Knicks pašaukė Kristapą Porzingį 4 šaukimu ir sulaukė Knicks fanų ir pseudo analitiko Stepheno A. Smitho kritikos.
 
-1. \*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do!
-2. Sorry, checking all the water in this area; there's an escaped fish.
-3. Father Christmas. Santa Claus. Or as I've always known him: Jeff.
+Justice Winslow buvo tas krepšininkas, kurį norėjo matyti Knicks klube kvaili niujorkiečiai. Phillas Jacksonas nepasidavė rasistiniam spaudimui, nesuklydo ir pasirinko Latvijos Sabonį – Kristapą Porzingį.
 
-### I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+![Kristapas Porzingis Knicks](/assets/porzingis_knicks-620x423.jpg "Kristapas Porzingis Knicks")
 
-It's a fez. I wear a fez now. Fezes are cool. You know how I sometimes have really brilliant ideas? You know how I sometimes have really brilliant ideas? Sorry, checking all the water in this area; there's an escaped fish.
+Dalis amerikiečių yra linkę labiau dairytis į vietinius krepšininkus taip nuvertindami ne NCAA žaidžiančius krepšininkus. Tai kas vyksta Europos krepšinyje žiūrima pro pirštus už Atlanto. Nėra nei vieno NCAA žaidėjo, kuris persikėlęs į Eurolygą iškart galėtų joje dominuoti. Nėra dėl to, kad NCAA žaidėjai nėra mentaliai pasiruošę tokiam kokybiniui šuoliui. Jie nežaidžia su vyresniais ir labiau patyrusiais krepšininkais. Fiziškai jie neturėtų didžiulių problemų, tačiau jų pasirodymas aikštelėje baigtųsi lipimu į medį ir sėdėjimu ant atsarginių žaidėjų suolelio.
 
-* I am the last of my species, and I know how that weighs on the heart so don't lie to me!
-* You hit me with a cricket bat.
-* You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+NCAA rungtyniauja jauni ir nepatyrę krepšininkai ir lyginti statistiką šioje lygoje su profesionalų lygomis yra neadekvatu. Visas pagrindines profesionalumo pamokas Luka Dončičius jau yra išėjęs ir persikėlęs į NBA jau turės daugiau krepšinio žinių nei daugelis kitų naujokų.
 
-I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship.
+## Pasirengęs NBA
 
-It's a fez. I wear a fez now. Fezes are cool. The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant.
+![Luka Doncic marškinėliai](/assets/Luka-Doncic-jersey.jpg "Luka Doncic marškinėliai")
 
-You know how I sometimes have really brilliant ideas? Annihilate? No. No violence. I won't stand for it. Not now, not ever, do you understand me?! I'm the Doctor, the Oncoming Storm - and you basically meant beat them in a football match, didn't you?
+2 metus atžaidęs Eurolygoje Luka Dončičius su savimi į NBA atsineš didžiulę patirtį kaip reikia laimėti. Norint suprasti Luka Dončičiaus talentą, reikia pastebėti kaip greitai šis žaidėjas mokosi ir kaip natūraliai jam viskas gaunasi. Šarūnas Jasikevičius ir Darius Maskoliūnas visą sezoną aiškino žalgiriečiams žaidimo detales ir menkiausias smulkmenas, kurių aukščiausio lygio profesionalams jau nebereikia aiškinti. Luka Dončičius labai greitai įsisavina kiekvienas detales ir labai gretai tobulėja kaip žaidėjas.
 
-You've swallowed a planet! They're not aliens, they're Earth…liens! You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+Didelė dalis veiksmų krepšinyje yra paremta pakartotinais veiksmais. Krepšininkai treniruodamiesi atlieka tuos pačius pasikartojančius pratimus. Paulius Jankūnas verždamasis į dešinę pusę atlieka metimą iš kairės rankos, nes taip yra įpratęs. Norint būti unikaliems turime nustebinti kitų įpročius, įnešti nenuspėjamumą ir improvizaciją, visada sugalvoti kažką naujo. Būtent tokiomis savybėmis ir pasižymi Luka Dončičius. Ne dėjimais, įspūdingu startiniu greičiu ir fizinėmis savybėmis, o didžiule mąstymo jėga ir puikiais krepšinio įgūdžiais.
 
-Father Christmas. Santa Claus. Or as I've always known him: Jeff. \*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! No… It's a thing; it's like a plan, but with more greatness.
+## Akcentuoja atletizmo trūkumą
 
-\*Insistently\* Bow ties are cool! Come on Amy, I'm a normal bloke, tell me what normal blokes do! You've swallowed a planet! I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
+![Luka Doncic žaidimo atributai prieš NBA](/assets/atributai.png "Luka Doncic žaidimo atributai prieš NBA")
 
-It's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? Saving the world with meals on wheels.
+Prieš NBA naujokų biržą Luka Dončičius buvo labiausiai nuvertintas žaidėjas tarp NBA skautų. Luka Dončičius gal ir tiktų ne visoms komandoms, tačiau sunku abejoti jo galimybėmis ir ateitimi. Savanaudiškai žaidžiančiose komandose Luka Dončičius būtų prislopintas ir suvaržytas. Tokioms komandoms reikia Aytono, kuris už 5 m. galėtų palikti komandą pavargęs nuo pralaimėjimų.
 
-You've swallowed a planet! Heh-haa! Super squeaky bum time! All I've got to do is pass as an ordinary human being. Simple. What could possibly go wrong? You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
+Vertindami žaidėjus NBA skautai dažnai netiksliai įvertina technines žaidėjų savybes ir potencialą. Luka Dončičiaus atletinės savybės vertinamos kaip vidutiniškos ir tai išskiriama kaip didžiausias jo minusas. NBA yra daug žaidėjų, kurie pasižymi žymiai geresnėmis atletinėmis savybėmis nei Jamesas Hardenas ar Kevinas Durantas, tačiau tai nedaro juos įskirtiniais krepšininkais. Nate’as Robinsonas ir Sony Weemsas pasižymėjo įspūdingais fiziniais rodikliais, tačiau netapo lygos žvaigždėmis. Luka Dončičius yra pakankamai atletiškas ir puikiai gali varžytis už save atletiškesniais krepšininkais ir juos įveikti savo krepšinio pajautimu.
 
-No… It's a thing; it's like a plan, but with more greatness. It's a fez. I wear a fez now. Fezes are cool. You hate me; you want to kill me! Well, go on! Kill me! KILL ME! Saving the world with meals on wheels.
+## Naujas Dallaso veidas
 
-You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? Sorry, checking all the water in this area; there's an escaped fish. You hit me with a cricket bat.
+![Luka Doncicius Dallaso Maverics ateitis](/assets/dallas_doncic-620x620.jpg "Luka Doncicius Dallaso Maverics ateitis")
 
-Did I mention we have comfy chairs? Stop talking, brain thinking. Hush. No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister. You know how I sometimes have really brilliant ideas?
+Viena iš priežasčių kodėl Luka taip greitai progresavo Madrido Real komandoje yra aukštos klasės komandos draugai ir treneriai. Madrido Reale Luka Dončičius mokėsi iš aukčiausio lygio įžaidėjo Sergio Llullo. Patekęs į Dallaso Maverics Luka Dončičius turės iš ko pasimokyti, kas galėjo būti keblu patekus į kitą komandą.
+
+Patekęs į prastesnę organizaciją Luka Dončičius galėtų nustoti tobulėti, nes paprasčiausiai nebus iš ko mokytis. NBA jo mokymosi ir tobulėjimo tempai gali sulėtėti. NBA vyrauja mažiau kombinacijomis, o daugiau žaidėjų individualumu paremtas žaidimas, kuris nėra parankiausias Luka Dončičiui, tačiau prie šių niuansų Luka turėtų prisitaikyti ir tapti Dallaso Maverics ateities veidu.
+
+## Mažai tikėtinas Ricky Rubio tobulėjimo scenarijus
+
+Ricky Rubio kaip ir Luka Dončičius savo krepšininko karjerą pradėjo labai anksti. 14 metų jis jau žaidė profesionalioje vyrų komandoje, o 17 m. jau dalyvavo olimpiadoje. Tačiau Ricky Rubio kitaip nei Luka Dončičius nepasižymėjo tokiu plačiu puolimo arsenalu ir gerais statistiniais rodikliais puolime. Ricky Rubio būdamas 18 m. ir po 10 m. taip ir liko tokio pačio lygio žaidėjas. Persikėlęs į NBA Rubio nepadarė papildomo kokybinio šuolio, nepradėjo geriau mesti iš toli.
+
+Luka Dončičiaus tobulėjimo ribos yra didesnės nei Ricky Rubio. Luka Dončičius yra labai universalus žaidėjas primenantis minkštesnę LeBrono Jameso versiją. Vertinant kaip Luka moka paskirstyti savo energiją aikštelėję jį būtų galima palyginti su Manu Ginobili.
+
+Slovėnijos rinktinės ir Finikso Suns treneris Igoris Kokoškovas yra pasakęs, kad Luka Dončičius greičiausiai yra ateities NBA superžvaigždė. Daugelis galėtų nesutikti su šiuo teiginiu, bet šiuo metu jis yra geriausias ir labiausiai tituluotas NBA naujokas, kuris turėtų nustebinti amerikiečius.
