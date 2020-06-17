@@ -2,7 +2,7 @@
 template: BlogPost
 path: /kodel-amerikieciai-nuvertina-luka-donciciu
 date: 2018-06-17T13:59:00.000Z
-title: Kodėl amerikiečiai nuvertina Luka Dončičių?
+title: Kodėl amerikiečiai nuvertina Luką Dončičių?
 thumbnail: /assets/Luka_Doncic.jpeg
 ---
 
