@@ -406,3 +406,12 @@ body.light {
     top: 8px;
     left: 2px
 }
+
+.post-title-contact {
+  position: absolute;
+  left: 2rem;
+  top: 35%;
+  bottom: 0;
+  z-index: 5;
+  text-shadow: 2px 2px var(--background);
+}

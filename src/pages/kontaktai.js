@@ -15,9 +15,12 @@ const ContactPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you kick start your next project &rarr;</p>
+        <div className="post-thumbnail">
+          <div className="post-title-contact">
+            <h1 className="post-title">Susisiekite pergalių klausimais</h1>
+            <p>Padėsiu Jums atnešti sėkmę ir pergales! Turiu atsakymus į visus klausimus</p>
+          </div>
+          <img src='/assets/krapikas.png' alt=''/>
         </div>
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
