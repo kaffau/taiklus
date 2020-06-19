@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /kas-yra-greiciausias-nba-zaidejas
-date: 2020-06-19T18:47:13.156Z
+date: 2013-09-03T18:47:00.000Z
 title: Kas yra greičiausias NBA žaidėjas?
 thumbnail: /assets/greiciausi-nba-zaidejai.jpg
 ---
