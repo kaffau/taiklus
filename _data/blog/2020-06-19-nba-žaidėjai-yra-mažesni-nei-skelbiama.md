@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /nba-zaidejai-yra-mazesni-nei-skelbiama
-date: 2020-06-19T18:38:58.757Z
+date: 2013-08-15T21:00:00.000Z
 title: NBA žaidėjai yra mažesni nei skelbiama
 thumbnail: /assets/nba-zaideju-ugis.jpg
 ---
