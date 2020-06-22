@@ -15,6 +15,18 @@ const IndexPage = ({
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
+   if (typeof window !== 'undefined') {
+      if ('caches' in window) {
+        alert('clear cache')
+        caches.keys()
+          .then(function(keyList) {
+              return Promise.all(keyList.map(function(key) {
+                  return caches.delete(key);
+              }));
+          })
+      }
+    };
+
   return (
     <Layout>
       <Helmet>
@@ -53,15 +65,4 @@ export const pageQuery = graphql`
     }
   }
 `
-
-if (typeof window !== 'undefined') {
-  if ('caches' in window) {
-    caches.keys()
-      .then(function(keyList) {
-          return Promise.all(keyList.map(function(key) {
-              return caches.delete(key);
-          }));
-      })
-  }
-}
 
