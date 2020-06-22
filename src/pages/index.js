@@ -17,7 +17,6 @@ const IndexPage = ({
 
    if (typeof window !== 'undefined') {
       if ('caches' in window) {
-        alert('clear cache')
         caches.keys()
           .then(function(keyList) {
               return Promise.all(keyList.map(function(key) {
