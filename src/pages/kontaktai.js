@@ -23,7 +23,7 @@ const ContactPage = ({
           <img src='/assets/krapikas.png' alt=''/>
         </div>
         <div>
-          <form className="form-container" name="contact" action="success/" method="post" data-netlify="true" data-netlify-recaptcha="true">
+          <form className="form-container" name="contact" action="../success/" method="post" data-netlify="true" data-netlify-recaptcha="true">
             <p className="hidden">
               <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
             </p>
