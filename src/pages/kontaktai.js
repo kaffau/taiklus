@@ -3,6 +3,7 @@ import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 
+
 const ContactPage = ({
   data: {
     site
@@ -23,24 +24,24 @@ const ContactPage = ({
           <img src='/assets/krapikas.png' alt=''/>
         </div>
         <div>
-          <form className="form-container" name="contact" action="/success" method="post" data-netlify="true" data-netlify-recaptcha="true">
+          <form className="form-container" name="contact" action="/success/"
+            data-netlify-honeypot="bot-field" method="post" data-netlify="true" data-netlify-recaptcha="true">
             <p className="hidden">
               <label>Don’t fill this out if you're human: <input name={"bot-field"} /></label>
+              <input type="hidden" name="form-name" value="contact" />
             </p>
-            <input type="hidden" name="form-name" value="contact" />
             <div>
-              <label htmlFor={'email'}>El. paštas</label>
+              <label htmlFor={"email"}>El. paštas</label>
               <input type={"email"} name={"email"} id={"email"} required={true} pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$"/>
             </div>
             <div>
-              <label htmlFor={'subject'}>Tema</label>
+              <label htmlFor={"subject"}>Tema</label>
               <input type={"text"} name={"subject"} id={"subject"} required={true}/>
             </div>
             <div>
-              <label htmlFor={'message'}>Žinutė</label>
+              <label htmlFor={"message"}>Žinutė</label>
               <textarea name={"message"} id={"message"} required={true}></textarea>
             </div>
-            <div data-netlify-recaptcha="true"></div>
             <div style={{display: "flex", justifyContent: "flex-end"}}>
               <button type={"submit"} className="button -primary" >Siųsti</button>
             </div>
