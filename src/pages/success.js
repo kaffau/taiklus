@@ -1,9 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 
-const SuccessPage = ({
-}) => {
-  return (
+export default () => (
     <Layout>
       <div className="two-grids -contact">
         <div className="post-thumbnail">
@@ -15,5 +13,3 @@ const SuccessPage = ({
       </div>
     </Layout>
   )
-}
-export default SuccessPage
