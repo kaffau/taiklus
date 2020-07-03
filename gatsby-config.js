@@ -53,48 +53,12 @@ module.exports = {
         icon: "src/images/icon.png",
       },
     },
-    {
-      resolve: `gatsby-plugin-netlify-headers`,
-      options: {
-        headers: {
-          "/public/**/*.html": [
-            "cache-control: public",
-            "cache-control:  max-age=0", 
-            "cache-control: must-revalidate",
-            "Clear-Site-Data: *"
-          ],
-          "/sw.js": [
-            "cache-control: public",
-            "cache-control:  max-age=0", 
-            "cache-control: must-revalidate",
-            "Clear-Site-Data: *"
-          ],
-          "/public/page-data/*": [
-            "cache-control: public",
-            "cache-control:  max-age=0", 
-            "cache-control: must-revalidate",
-            "Clear-Site-Data: *"
-          ],
-          "/static/css/*.css": [
-            "cache-control: public",
-            "cache-control:  max-age=0", 
-            "cache-control: must-revalidate",
-            "Clear-Site-Data: *"
-          ],
-          "/static/js/*.js": [
-            "cache-control: public",
-            "cache-control:  max-age=0", 
-            "cache-control: must-revalidate",
-            "Clear-Site-Data: *"
-          ]
-        },
-      },
-    },
     `gatsby-plugin-sass`, 
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
     'gatsby-plugin-dark-mode',
     // siteURL is a must for sitemap generation
-    `gatsby-plugin-sitemap`
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-offline`,
   ],
 }
