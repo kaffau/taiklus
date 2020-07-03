@@ -75,7 +75,13 @@ module.exports = {
             "cache-control: must-revalidate",
             "Clear-Site-Data: *"
           ],
-          "/public/static/*": [
+          "/public/static/css/*.css": [
+            "cache-control: public",
+            "cache-control:  max-age=0", 
+            "cache-control: must-revalidate",
+            "Clear-Site-Data: *"
+          ],
+          "/public/static/js/*.js": [
             "cache-control: public",
             "cache-control:  max-age=0", 
             "cache-control: must-revalidate",
