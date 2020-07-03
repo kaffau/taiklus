@@ -15,16 +15,11 @@ const IndexPage = ({
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node} />)
 
-   if (typeof window !== 'undefined') {
-      if ('caches' in window) {
-        caches.keys()
-          .then(function(keyList) {
-              return Promise.all(keyList.map(function(key) {
-                  return caches.delete(key);
-              }));
-          })
-      }
-    };
+    if (typeof window !== 'undefined' && 'serviceWorker' in navigator) {
+      window.navigator.serviceWorker.getRegistrations().then(registrations => {
+        registrations.forEach(r => r.unregister())
+      })
+    }
 
   return (
     <Layout>
