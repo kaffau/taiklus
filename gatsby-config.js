@@ -54,9 +54,25 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-remove-serviceworker`,
+      resolve: `gatsby-plugin-netlify-headers`,
       options: {
-        filename: `runtime-service-worker.js`,
+        headers: {
+          "/public/**/*.html": [
+            "cache-control: public",
+            "cache-control:  max-age=0", 
+            "cache-control: must-revalidate"
+          ],
+          "/sw.js": [
+            "cache-control: public",
+            "cache-control:  max-age=0", 
+            "cache-control: must-revalidate"
+          ],
+          "/public/page-data/*": [
+            "cache-control: public",
+            "cache-control:  max-age=0", 
+            "cache-control: must-revalidate"
+          ]
+        },
       },
     },
     `gatsby-plugin-sass`, 
@@ -65,6 +81,6 @@ module.exports = {
     'gatsby-plugin-dark-mode',
     // siteURL is a must for sitemap generation
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-remove-serviceworker`,
+    `gatsby-plugin-offline`
   ],
 }
