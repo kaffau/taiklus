@@ -60,17 +60,26 @@ module.exports = {
           "/public/**/*.html": [
             "cache-control: public",
             "cache-control:  max-age=0", 
-            "cache-control: must-revalidate"
+            "cache-control: must-revalidate",
+            "Clear-Site-Data: *"
           ],
           "/sw.js": [
             "cache-control: public",
             "cache-control:  max-age=0", 
-            "cache-control: must-revalidate"
+            "cache-control: must-revalidate",
+            "Clear-Site-Data: *"
           ],
           "/public/page-data/*": [
             "cache-control: public",
             "cache-control:  max-age=0", 
-            "cache-control: must-revalidate"
+            "cache-control: must-revalidate",
+            "Clear-Site-Data: *"
+          ],
+          "/public/static/*": [
+            "cache-control: public",
+            "cache-control:  max-age=0", 
+            "cache-control: must-revalidate",
+            "Clear-Site-Data: *"
           ]
         },
       },
@@ -81,6 +90,6 @@ module.exports = {
     'gatsby-plugin-dark-mode',
     // siteURL is a must for sitemap generation
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-offline`
+    `gatsby-plugin-offline`,
   ],
 }
