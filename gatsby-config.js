@@ -53,6 +53,12 @@ module.exports = {
         icon: "src/images/icon.png",
       },
     },
+    {
+      resolve: `gatsby-plugin-remove-serviceworker`,
+      options: {
+        filename: `runtime-service-worker.js`,
+      },
+    },
     `gatsby-plugin-sass`, 
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
